@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1576623960 source:d:\codeblocks codes\telephone book project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576077790 source:d:\codeblocks codes\telephone book project\bla.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1576077907 d:\codeblocks codes\telephone book project\ali.h
+
+1576623960 source:d:\handasa\old trash\telephone book project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,12 @@
+Ali,Mohamed,10-7-2000,Fawzy Moaz street,ali@gmail.com,03-4276176
+Ali,Bing,2-5-1900,ihvihiw djii,ali@gmail.com,03-6473673
+Ali,Mohamed,10-7-2000,Fawzy moaz smouha,ali@gmail.com,03-4276176
+Chandler,Bing,7-7-1969,15 Yemen road Yemen,mrschanandlerbong@gmail.com,03-777777
+Joey,Tribbiani,10-7-1972,Central Perk,joeypizza@gmail.com,03-6969696
+Lionel,Messi,19-10-1985,Barcelona Camp Nou,lmessi@gmail.com,03-1234567
+Mohamed,Youssef,26-10-1967,fawzy moaz,myoussef@gmail.com,03-4276176
+mohamed,salah,10-7-1995,liverpool anfield,msalah@gmail.com,03-6969699
+mohamed,bahaa,10-7-2000,smouha terrace,biha@gmail.com,03-4234567
+Mohamed,Youssef,26-10-1967,fawzy moaz,myoussef@gmail.com,03-4276176
+Sherif,Azmi,28-9-2000,Mostafa kamel,gedo_mnabhan@gmail.com,03-5468716
+Youssef,Nabhan,10-4-2000,Mostafa kamel,gedo@gmail.com,03-5467187
